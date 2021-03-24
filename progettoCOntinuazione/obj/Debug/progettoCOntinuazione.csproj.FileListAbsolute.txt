@@ -1,0 +1,9 @@
+C:\Users\f.piumatti.1365\source\repos\progettoCOntinuazione\progettoCOntinuazione\bin\Debug\progettoCOntinuazione.exe.config
+C:\Users\f.piumatti.1365\source\repos\progettoCOntinuazione\progettoCOntinuazione\bin\Debug\progettoCOntinuazione.exe
+C:\Users\f.piumatti.1365\source\repos\progettoCOntinuazione\progettoCOntinuazione\bin\Debug\progettoCOntinuazione.pdb
+C:\Users\f.piumatti.1365\source\repos\progettoCOntinuazione\progettoCOntinuazione\obj\Debug\progettoCOntinuazione.csprojAssemblyReference.cache
+C:\Users\f.piumatti.1365\source\repos\progettoCOntinuazione\progettoCOntinuazione\obj\Debug\progettoCOntinuazione.Form1.resources
+C:\Users\f.piumatti.1365\source\repos\progettoCOntinuazione\progettoCOntinuazione\obj\Debug\progettoCOntinuazione.Properties.Resources.resources
+C:\Users\f.piumatti.1365\source\repos\progettoCOntinuazione\progettoCOntinuazione\obj\Debug\progettoCOntinuazione.csproj.GenerateResource.cache
+C:\Users\f.piumatti.1365\source\repos\progettoCOntinuazione\progettoCOntinuazione\obj\Debug\progettoCOntinuazione.exe
+C:\Users\f.piumatti.1365\source\repos\progettoCOntinuazione\progettoCOntinuazione\obj\Debug\progettoCOntinuazione.pdb
